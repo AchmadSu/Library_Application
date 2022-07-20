@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Ecep Achmad Sutisna",
+    "username": "Achmad Sutisna",
+    "email": "ecepentis@gmail.com",
+    "password" : "superadmin",
+    "detail" : "Informatics Student",
+    "address": {
+      "hometown": "Cigugur",
+      "village": "Cigugurgirang",
+      "district": "Parongpong",
+      "city": "Bandung",
+      "zipcode": "40559",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "education" : {
+        "img" : "6.jpg",
+        "item1" : "Politeknik TEDC Bandung",
+        "item2" : "SMK Insan Mandiri",
+        "item3" : "SMP Negeri 26 Bandung",
+        "item4" : "SD Yayasan Amal Keluarga"
+    },
+    "organization" : {
+        "img" : "8.jpg",
+        "item1" : "Member of Organisasi Intra Sekolah SMK Insan Mandiri",
+        "item2" : "Leader of Muda Mahardika Unit 13",
+        "item3" : "Member of Relawan Covid Cigugurgirang",
+        "item4" : "Member of Muda Mahardika Cigugurgirang"
+    },
+    "work" : {
+        "img" : "7.jpg",
+        "item1" : "Back Office of PT. Hardja Gunatama Lestari"
+    },
+    "hobbies" : {
+        "img" : "9.jpg",
+        "item1" : "Futsal",
+        "item2" : "Graphic Designing",
+        "item3" : "Programming"
+    },
+    "phone": "089658420438",
+    "website": "achmadSu.com",
+    "company": {
+      "name": "Achmad Sutisna Digital Company",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  }
+]
